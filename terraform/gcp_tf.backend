@@ -1,0 +1,3 @@
+bucket = "football-api-prod-tf-state"
+prefix = "static.tfstate.d"
+impersonate_service_account = "servacc-footballapi-tf-prod@football-api-project-386115.iam.gserviceaccount.com"
